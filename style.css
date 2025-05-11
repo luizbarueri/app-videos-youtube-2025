@@ -2,3 +2,15 @@
     background-color: darkgreen;
     color: aliceblue;
 }
+
+li {
+    /* width: 700px; */
+    padding: 7px;
+}
+a {
+    background-color: rgb(134, 61, 8);
+    border: solid 2px black; 
+    border-radius: 10px;
+    padding: 6px;
+    text-decoration: none;
+}
