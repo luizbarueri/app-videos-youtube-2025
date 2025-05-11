@@ -30,6 +30,7 @@ function abreVideo(x) {
         flame.src = "https://www.youtube.com/embed/vjAGt3IpLVk?list=RDvjAGt3IpLVk"
     }
     if  (x == 10) {
-        flame.src = "https://www.youtube.com/embed/Bquy7lBfVTU"
+        //flame.src = "https://www.youtube.com/embed/Bquy7lBfVTU"
+        flame.src = "https://www.youtube.com/embed/luF99ScR_20"
     }
 }
