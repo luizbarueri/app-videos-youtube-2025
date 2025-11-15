@@ -12,14 +12,14 @@ function abreVideo(x) {
         flame.src = "https://www.youtube.com/embed/RnDDQ9CY-1I?list=RDfgTaIOoXr3s"
     }
     if  (x == 4) {
-        flame.src = "https://www.youtube.com/embed/0lMFS5Ji4AE?list=RDfgTaIOoXr3s"
+       
+        flame.src = "https://www.youtube.com/embed/D81zaYkL-js?list=RDD81zaYkL-js"
     }
     if  (x == 5) {
         flame.src = "https://www.youtube.com/embed/w46bWxS9IjY?list=RDfgTaIOoXr3s"
     }
     if  (x == 6) {
-        flame.src = "https://www.youtube.com/embed/3PvH6d6rpXw"
-        //<iframe width="1265" height="694" src="https://www.youtube.com/embed/3PvH6d6rpXw" title="Porque Brigamos - Bárbara Eugênia [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        flame.src = "https://www.youtube.com/embed/3PvH6d6rpXw?list=RDfgTaIOoXr3s"
     }
     if  (x == 7) {
         flame.src = "https://www.youtube.com/embed/xhv4f6FjWNM?list=RDxhv4f6FjWNM"
@@ -33,5 +33,10 @@ function abreVideo(x) {
     if  (x == 10) {
         //flame.src = "https://www.youtube.com/embed/Bquy7lBfVTU"
         flame.src = "https://www.youtube.com/embed/luF99ScR_20"
+    }
+     if  (x == 11) {
+        //flame.src = "https://www.youtube.com/embed/Bquy7lBfVTU"
+        //<iframe width="1265" height="694" src="https://www.youtube.com/embed/csYZub5FdRs" title="ALWAYS REMEMBER US THIS WAY (LADY GAGA) - LEGENDADO - HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        flame.src = "https://www.youtube.com/embed/csYZub5FdRs"
     }
 }
