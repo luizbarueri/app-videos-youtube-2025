@@ -19,3 +19,12 @@ button {
 button:hover{
     background-color: rgb(9, 49, 36);
 }
+/*criar volunas lado a lado*/
+.container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 20px;
+}

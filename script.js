@@ -40,4 +40,8 @@ function abreVideo(x) {
         //<iframe width="1265" height="694" src="https://www.youtube.com/embed/csYZub5FdRs" title="ALWAYS REMEMBER US THIS WAY (LADY GAGA) - LEGENDADO - HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         flame.src = "https://www.youtube.com/embed/csYZub5FdRs"
     }
+    //<iframe width="1150" height="616" src="https://www.youtube.com/embed/w6TapiQKXsU?list=RDw6TapiQKXsU" title="Banda Djavú - Rubi (Especial de Carnaval 2025)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    if  (x == 12) {
+        flame.src = "https://www.youtube.com/embed/w6TapiQKXsU?list=RDw6TapiQKXsU"
+    }
 }
