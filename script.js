@@ -15,11 +15,12 @@ function abreVideo(x) {
        
         flame.src = "https://www.youtube.com/embed/D81zaYkL-js?list=RDD81zaYkL-js"
     }
+    //<iframe width="1150" height="616" src="https://www.youtube.com/embed/xq-aTe77bkA?list=RD3PvH6d6rpXw" title="Alizée - La Isla Bonita" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     if  (x == 5) {
-        flame.src = "https://www.youtube.com/embed/w46bWxS9IjY?list=RDfgTaIOoXr3s"
-    }
+        flame.src = "https://www.youtube.com/embed/xq-aTe77bkA?list=RD3PvH6d6rpXw"
+    }//<iframe width="1150" height="616" src="https://www.youtube.com/embed/3PvH6d6rpXw?list=RD3PvH6d6rpXw" title="Porque Brigamos - Bárbara Eugênia [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     if  (x == 6) {
-        flame.src = "https://www.youtube.com/embed/3PvH6d6rpXw?list=RDfgTaIOoXr3s"
+        flame.src = "https://www.youtube.com/embed/3PvH6d6rpXw?list=RD3PvH6d6rpXw"
     }
     if  (x == 7) {
         flame.src = "https://www.youtube.com/embed/xhv4f6FjWNM?list=RDxhv4f6FjWNM"
