@@ -9,7 +9,8 @@ function abreVideo(x) {
         flame.src = "https://www.youtube.com/embed/fgTaIOoXr3s?list=RDfgTaIOoXr3s"
     }
     if  (x == 3) {
-        flame.src = "https://www.youtube.com/embed/RnDDQ9CY-1I?list=RDfgTaIOoXr3s"
+        //<iframe width="1150" height="616" src="https://www.youtube.com/embed/RnDDQ9CY-1I?list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA" title="Dido - White Flag (Live 8 2005)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        flame.src = "https://www.youtube.com/embed/RnDDQ9CY-1I?list=RDGMEMQ1dJ7wXfLlqCjwV0xfSNbA"
     }
     if  (x == 4) {
        
